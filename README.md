@@ -1,14 +1,16 @@
 # PREPARAZIONE LASAGNE ALLA BOLOGNESE #
 
 -Controllo di avere un ricettario;
+
 -SE ho il ricettario: verifico la presenza della ricetta;
  -SE c'è la ricetta: la utilizzo;
-
  -ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
+
+-ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
 
 Lista ingredienti: (sedano, carote ecc...)
 
--SE non ho uno degli ingredienti: me li procuro;
+-SE non ho uno o più ingredienti: me li procuro;
 
 Lista utensili: (coltelli, casseruole ecc...)
 
