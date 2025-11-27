@@ -3,8 +3,8 @@
 -Controllo di avere un ricettario;
 
 -SE ho il ricettario: verifico la presenza della ricetta;
- -SE c'è la ricetta: la utilizzo;
- -ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
+   -SE c'è la ricetta: la utilizzo;
+   -ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
 
 -ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
 
@@ -46,7 +46,4 @@ Divido il tutto in 8 porzioni;
 Inserisco ogni porzione in un piatto;
 Dispongo i piatti a tavola;
 
-
-
-BUON APPETITO!!!
 
