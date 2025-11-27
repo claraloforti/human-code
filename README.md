@@ -1,26 +1,26 @@
-PREPARAZIONE LASAGNE ALLA BOLOGNESE
+# PREPARAZIONE LASAGNE ALLA BOLOGNESE #
 
--CONTROLLO DI AVERE UN RICETTARIO
--SE HO IL RICETTARIO: verifico la presenza della ricetta;
- -SE SI: utilizzo la ricetta del ricettario;
+-Controllo di avere un ricettario;
+-SE ho il ricettario: verifico la presenza della ricetta;
+ -SE c'è la ricetta: la utilizzo;
 
--ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
+ -ALTRIMENTI: effettuo una ricerca sul web FINCHE' non trovo una ricetta e la utilizzo;
 
-LISTA INGREDIENTI: (sedano, carote ecc...)
+Lista ingredienti: (sedano, carote ecc...)
 
--SE NON HO UNO DEGLI INGREDIENTI: me li procuro;
+-SE non ho uno degli ingredienti: me li procuro;
 
-LISTA UTENSILI: (coltelli, casseruole ecc...)
+Lista utensili: (coltelli, casseruole ecc...)
 
--DISPONGO GLI UTENSILI:
-SE NE MANCANO UNO O PIÚ: me li procuro;
+-Dispongo gli utensili:
+SE ne mancano uno o più: me li procuro;
 
--Porzionamento ingredienti
+-Porzionamento ingredienti;
 
 
 -PREPARAZIONE:
 
-RAGU:
+RAGU':
 Trito sedano carote e cipolla ecc...
 Trito la pancetta ecc...
 
@@ -39,7 +39,7 @@ Metto a bollire una sfoglia alla volta per 30 secondi;
 Realizzo 6 strati in totale;
 
 
-IMPIATTAMENTO:
+-IMPIATTAMENTO:
 Divido il tutto in 8 porzioni;
 Inserisco ogni porzione in un piatto;
 Dispongo i piatti a tavola;
